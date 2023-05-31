@@ -172,6 +172,20 @@
   }
 
   .resume-item-copy { margin: .75rem 0 0; }
+
+  .resume-item-buzzword {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+  }
+
+  .resume-item-buzzword span {
+    padding: 2px 4px;
+    border-radius: 6px;
+    background: rgb(140, 142, 168);
+    margin: 2px;
+    color: black;
+  }
 }
 
 // footer styles
