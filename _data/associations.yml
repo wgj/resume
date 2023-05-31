@@ -1,15 +1,20 @@
 # Associations
 # comment out the urls if you do not wish to display them
 
-- organization: PETA
-  role: Volunteer
-  year: 2001 &mdash; 2010
-  url: https://www.peta.org/
-  summary: Organized fund drives and participated in fundraising events for the benefit of PETA's local Springfield operations.
+- organization: USENIX
+  role: Advocate Member
+  year: 2013 &mdash; Present
+  url: https://www.usenix.org/
+  summary: The USENIX Association is a 501(c)(3) nonprofit organization, dedicated to supporting the advanced computing systems communities and furthering the reach of innovative research.
 
+- organization: League of Professional System Administrators
+  role: Member
+  year: 2013 &mdash; 2018
+  url: https://lopsa.org/
+  summary: The League of Professional System Administrators (LOPSA) is a nonprofit corporation with members throughout the world. Our mission is to advance the practice of system administration; to support, recognize, educate, and encourage its practitioners; and to serve the public through education and outreach on system administration issues.
 
-- organization: Yale Amnesty International
-  role: Communications coordinator
-  year: 2002 &mdash; 2004
-  url: http://campuspress.yale.edu/amnesty/
-  summary: During my junion and senior years at Yale, I was actively involved in Yale Amnesty International where I helped facilitate our student organization communications through website maintenance, writing for our campus publication, and graphic design of related materials.
+- organization: Burning Man, Black Rock Rangers
+  role: Volunteer, Shift Lead
+  year: 2010 &mdash; 2018
+  url: https://burningman.org/event/preparation/black-rock-city-guide/infrastructure/rangers/
+  summary: Black Rock Rangers are participants who volunteer a portion of their time at Burning Man in service of the safety and well-being of the Burning Man community. Rangers act as non-confrontational community mediators, providers of reliable information, facilitators of public safety (with the expectation that everyone reads the back of their ticket, of course!), and navigators of the edge of chaos.

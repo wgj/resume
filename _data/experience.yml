@@ -1,19 +1,60 @@
 # Jobs
-# VP of Global Communications
-- company: Springfield International Human Rights Outreach
-  position: VP of Global Communications
-  duration: Oct, 2013 &mdash; Present
-  summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	<ul class="resume-item-list"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
+# Manager, DevOps and SRE
+- company: PollyEx
+  position: Engineering Manager, DevOps and SRE
+  duration: Feb, 2021 &mdash; Present
+  summary: As a People Manager and Technical Lead for a team of 6 devops engineers, I focused on infrastructure and DevOps excellence, while providing mentorship and guidance for professional development. I planned and executed a successful migration from Heroku to AWS with no interruption to customer experience or developer throughput. <p />Additionally, I designed and implemented a cloud-native infrastructure with CICD pipelines, featuring ephemeral instances for developers, and zero-downtime deployments to production.<p />As a part of a cost savings exercise, I brought down our OpEx spend by over 30%. And to help fill in gaps, I ran our SOC 2 Type 2 security audit for the 2022 observational period.
+  buzzwords:
+    - leverage
+    - synergy
 
-# Director of Digital Stratgy
-- company: United Nations Human Rights Council
-  position: Director of Digital Strategy
-  duration:  Jun, 2010 &mdash; Sept, 2013
-  summary: If your stint was shorter, feel free to be brief and just call out the most meaningful points of your role. Be concise, and be meaninful. The person reading just needs enough to want to talk to you more about your experience.
+- company: Automox
+  position: Site Reliability Engineer
+  duration:  Aug, 2019 &mdash; Feb, 2021
+  summary: Working with Kuberenetes at scale, servicing a customer base of 10,000s and 100,000s of endpoints.<p />Team lead for internal projects to scale our developer environments and CICD pipelines for hundreds of developers.<p />Provide our team with technical expertise and experience for the intersection of Kubernetes and AWS.<p />Improved our developer’s experience by writing a Kubectl plugin for viewing container logs stored in our logging infrastructure.
 
+- company: UCLA Health
+  position: Sr. DevOps Engineer, Research Computing
+  duration:   Jul, 2017  &mdash; Jan, 2019
+  summary: Acting as an internal consultant for the David Geffen School of Medicine's research community to architect and implement cloud-focused computing solutions on the University of California's first HIPAA-compliant public cloud platform.<p />Responsible engineer for a strategic precision medicine project to sequence 150,000 patients over three years, starting with a ETL pipeline for VCF, working towards a HIPAA-compliant platform for tertiary analysis using Jupyter Notebook.
+  
+- company: MNTN
+  position: Manager, Systems Engineering
+  duration:   Oct, 2015  &mdash; Mar, 2017
+  summary: Manager and technical team lead for a team of 4 systems engineers responsible for infrastructure of online ad delivery, such as host provisioning and availability, Layer-7 load balancing, and DNS.<p />As a technical lead was responsible for technical direction, design, and availability of core infrastructure services including cluster deployment mechanisms, host provisioning systems, and monitoring metrics.<p />As a manager focused on interpersonal relationships within the team, along with their professional development and as their representative and advocate for the business at large. Acted as a point of contact for peers in the engineering department. Made sure that the work our team agreed to do was getting done, and within a reasonable time.
 
-# Communications Coordinator
-- company: Springfield Women & Children's Center
-  position: Communications Coordinator
-  duration:   Jun, 2008  &mdash; May, 2010
-  summary: Led communication efforts across digital and traditional media channels for marketing and public relations, internal communication strategies, and coordinated support programs for the recipients of the center's services.
+- company: Amazon Web Services
+  position: DevOps Support Engineer
+  duration:   Jun, 2015  &mdash; Oct, 2015
+  summary: AWS technical support providing 'white glove service' for external and internal customers including NetFlix, Amazon.com, and the US Government. The role required being an expert in AWS services such as EC2, VPC, and CloudFormation.<p />My short stint is regretable and due to a family emergency. I think I would've been successful in this role, had the circumstances allowed me to stay longer.
+ 
+
+- company: SpaceX
+  position: Systems Administrator II
+  duration:   Nov, 2013  &mdash; May, 2015
+  summary: Lead and Responsible Engineer for replicating cloud computing services on internal networks regulated by the US Government (ITAR compliance). These services were mission critical; if they weren't reliable, our rockets didn't launch. Services included, OpenStack (to replicate AWS EC2), S3-compatible object storage, and the Atlassian suite (JIRA, Confluence, Bamboo, Stash).<p />Created a webapp for “DNS as a Service”, so dynamic VM provisioning had a RESTful interface for Active Directory DNS. This was before HP’s Designate was accepted by the OpenStack Foundation.
+
+- company: Burning Man Project
+  position: On-playa IT Manager
+  duration:   Seasonal, 2013 &mdash; 2015
+  summary: During pre-event and post-event, I was responsponsible for setup workstations and servers in an environment inhospitible to humans and computers alike<p />During the event, I was on-call for avaiablility of in-house dispatch and case management software for emergency services for a temorary city population of 70,000 people.
+
+- company: MNTN
+  position: Systems Administrator
+  duration:   Oct, 2012  &mdash; Oct, 2013
+  summary: Responsible for infrastructure of online ad delivery, such as host provisioning and availability, Layer-7 load balancing, and DNS.<p />Managed 3,000+ host datacenter with configuration management and scripting (our IaaS vendor took care of 'racking and stacking').<p />Lead CI/CD adoption for software development teams.<p />Founded and lead monthly meeting where senior engineers shared and presented tips and tricks for the engineering team.
+
+- company: Internet Brands
+  position: Systems Administrator
+  duration:   Jul, 2010  &mdash; resume_facebook_url:, 2012
+  summary: Migrated recently acquired websites, and data center hardware operations.
+
+- company: Parasoft
+  position: Professional Services Engineer
+  duration:   Nov, 2008  &mdash; Jun, 2010
+  summary: SDLC consultant, and technical expert for pre and post-sales.
+
+- company: Parasoft
+  position: Systems Administrator, IT Manager
+  duration:   Oct, 2005  &mdash; Nov, 2008
+  summary: People manager and tech lead for corporate IT team, focused on user and asset management.
