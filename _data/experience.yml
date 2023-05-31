@@ -6,8 +6,14 @@
   summary: As a People Manager and Technical Lead for a team of 6 devops engineers, I focused on infrastructure and DevOps excellence, while providing mentorship and guidance for professional development. I planned and executed a successful migration from Heroku to AWS with no interruption to customer experience or developer throughput. <p />Additionally, I designed and implemented a cloud-native infrastructure with CICD pipelines, featuring ephemeral instances for developers, and zero-downtime deployments to production.<p />As a part of a cost savings exercise, I brought down our OpEx spend by over 30%. And to help fill in gaps, I ran our SOC 2 Type 2 security audit for the 2022 observational period.
   buzzwords:
     - AWS
+    - EKS
+    - Docker
     - Kubernetes
     - Terraform
+    - CICD
+    - Prometheus
+    - Elasticsearch
+    - Kibana
 
 - company: Automox
   position: Site Reliability Engineer
