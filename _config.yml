@@ -20,8 +20,8 @@ resume_contact_email:           "resume@futureprefect.com"
 resume_contact_telephone:       "(747) 200-7738"
 resume_contact_address:         "Boulder, CO"
 
-resume_header_contact_info:     "742 Evergreen Terrace, Springfield • 555-7334 • lisasimpson@youremailaddress.com"
-display_header_contact_info:    "false"
+resume_header_contact_info:     "Boulder, CO • (747) 200-7738 • resume@futureprefect.com"
+display_header_contact_info:    "true"
 
 resume_header_intro: "<p>I am an experienced DevOps and Site Reliability Engineer with strong skills in cloud computing, Kubernetes, and AWS. I have managed teams and worked at companies like SpaceX, Amazon Web Services, and UCLA Health. I am knowledgeable in Linux system administration, continuous integration, and configuration management. With a background in Agile, Scrum, and DevOps methodologies, I am committed to team growth and project success.</p>"
 
@@ -35,9 +35,9 @@ resume_looking_for_work:        "yes"
 # comment out to hide
 resume_section_experience:      true
 #resume_section_education:       true
-resume_section_projects:        true
-resume_section_skills:          true
-resume_section_recognition:     true
+#resume_section_projects:        true
+#resume_section_skills:          true
+#resume_section_recognition:     true
 #resume_section_links:           true
 resume_section_associations:    true
 # resume_section_interests:       true
@@ -47,7 +47,7 @@ resume_section_associations:    true
 resume_social_links:
   resume_github_url:            "https://github.com/wgj"
   #resume_twitter_url:           "http://twitter.com/jglovier"
-  resume_dribbble_url:          "https://dribbble.com/jag"
+  #resume_dribbble_url:          "https://dribbble.com/jag"
   # resume_facebook_url:          "insert Facebook URL here"
   resume_linkedin_url:          "https://www.linkedin.com/in/westonjohnson/"
   # resume_instagram_url:         "insert your Instagram URL here"
