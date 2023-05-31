@@ -12,8 +12,6 @@
     - Terraform
     - CICD
     - Prometheus
-    - Elasticsearch
-    - Kibana
 
 - company: Automox
   position: Site Reliability Engineer
