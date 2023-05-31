@@ -1,5 +1,3 @@
-# Jobs
-# Manager, DevOps and SRE
 - company: PollyEx
   position: Engineering Manager, DevOps and SRE
   duration: Feb, 2021 &mdash; Present
@@ -12,21 +10,47 @@
     - Terraform
     - CICD
     - Prometheus
+    - Scaling
 
 - company: Automox
   position: Site Reliability Engineer
   duration:  Aug, 2019 &mdash; Feb, 2021
   summary: Working with Kuberenetes at scale, servicing a customer base of 10,000s and 100,000s of endpoints.<p />Team lead for internal projects to scale our developer environments and CICD pipelines for hundreds of developers.<p />Provide our team with technical expertise and experience for the intersection of Kubernetes and AWS.<p />Improved our developer’s experience by writing a Kubectl plugin for viewing container logs stored in our logging infrastructure.
+  buzzwords:
+    - AWS
+    - Docker
+    - Kubernetes
+    - Terraform
+    - CICD
+    - Jenkins
+    - Prometheus
+    - Grafana
+    - Scaling
 
 - company: UCLA Health
   position: Sr. DevOps Engineer, Research Computing
   duration:   Jul, 2017  &mdash; Jan, 2019
   summary: Acting as an internal consultant for the David Geffen School of Medicine's research community to architect and implement cloud-focused computing solutions on the University of California's first HIPAA-compliant public cloud platform.<p />Responsible engineer for a strategic precision medicine project to sequence 150,000 patients over three years, starting with a ETL pipeline for VCF, working towards a HIPAA-compliant platform for tertiary analysis using Jupyter Notebook.
-  
+  buzzwords:
+    - AWS
+    - Compliance
+    - HIPAA
+    - High Performance Computing (HPC)
+    - Exchange
+    - Amazon EMR
+    - Hadoop
+    - DNA Sequencing (WGS, WES)
+
 - company: MNTN
   position: Manager, Systems Engineering
   duration:   Oct, 2015  &mdash; Mar, 2017
   summary: Manager and technical team lead for a team of 4 systems engineers responsible for infrastructure of online ad delivery, such as host provisioning and availability, Layer-7 load balancing, and DNS.<p />As a technical lead was responsible for technical direction, design, and availability of core infrastructure services including cluster deployment mechanisms, host provisioning systems, and monitoring metrics.<p />As a manager focused on interpersonal relationships within the team, along with their professional development and as their representative and advocate for the business at large. Acted as a point of contact for peers in the engineering department. Made sure that the work our team agreed to do was getting done, and within a reasonable time.
+  buzzwords:
+    - HAProxy
+    - Load Balancing
+    - Scaling
+    - High Availability
+    - Ansible
 
 - company: Amazon Web Services
   position: DevOps Support Engineer
@@ -37,11 +61,23 @@
   position: Systems Administrator II
   duration:   Nov, 2013  &mdash; May, 2015
   summary: Lead and Responsible Engineer for replicating cloud computing services on internal networks regulated by the US Government (ITAR compliance). These services were mission critical; if they weren't reliable, our rockets didn't launch. Services included, OpenStack (to replicate AWS EC2), S3-compatible object storage, and the Atlassian suite (JIRA, Confluence, Bamboo, Stash).<p />Created a webapp for “DNS as a Service”, so dynamic VM provisioning had a RESTful interface for Active Directory DNS. This was before HP’s Designate was accepted by the OpenStack Foundation.
+  buzzwords:
+    - OpenStack
+    - EC2
+    - S3
+    - ITAR
+    - DNS
+    - VLAN
+    - Puppet
 
 - company: Burning Man Project
   position: On-playa IT Manager
   duration:   Seasonal, 2013 &mdash; 2015
   summary: During pre-event and post-event, I was responsponsible for setup of workstations and servers in an environment inhospitible to humans and computers alike<p />During the event, I was on-call for avaiablility of in-house dispatch and case management software for emergency services for a temorary city population of 70,000 people.
+  buzzwords:
+    - FEMA ICS
+    - Emergency Services
+    - Structured Cabling
 
 - company: MNTN
   position: Systems Administrator
@@ -50,13 +86,14 @@
 
 - company: Internet Brands
   position: Systems Administrator
-  duration:   Jul, 2010  &mdash; resume_facebook_url:, 2012
+  duration:   Jul, 2010  &mdash; Sep, 2012
   summary: Migrated recently acquired websites, and data center hardware operations.
 
 - company: Parasoft
   position: Professional Services Engineer
   duration:   Nov, 2008  &mdash; Jun, 2010
   summary: SDLC consultant, and technical expert for pre and post-sales.
+
 
 - company: Parasoft
   position: Systems Administrator, IT Manager
