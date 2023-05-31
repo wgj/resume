@@ -5,8 +5,9 @@
   duration: Feb, 2021 &mdash; Present
   summary: As a People Manager and Technical Lead for a team of 6 devops engineers, I focused on infrastructure and DevOps excellence, while providing mentorship and guidance for professional development. I planned and executed a successful migration from Heroku to AWS with no interruption to customer experience or developer throughput. <p />Additionally, I designed and implemented a cloud-native infrastructure with CICD pipelines, featuring ephemeral instances for developers, and zero-downtime deployments to production.<p />As a part of a cost savings exercise, I brought down our OpEx spend by over 30%. And to help fill in gaps, I ran our SOC 2 Type 2 security audit for the 2022 observational period.
   buzzwords:
-    - leverage
-    - synergy
+    - AWS
+    - Kubernetes
+    - Terraform
 
 - company: Automox
   position: Site Reliability Engineer
@@ -36,7 +37,7 @@
 - company: Burning Man Project
   position: On-playa IT Manager
   duration:   Seasonal, 2013 &mdash; 2015
-  summary: During pre-event and post-event, I was responsponsible for setup workstations and servers in an environment inhospitible to humans and computers alike<p />During the event, I was on-call for avaiablility of in-house dispatch and case management software for emergency services for a temorary city population of 70,000 people.
+  summary: During pre-event and post-event, I was responsponsible for setup of workstations and servers in an environment inhospitible to humans and computers alike<p />During the event, I was on-call for avaiablility of in-house dispatch and case management software for emergency services for a temorary city population of 70,000 people.
 
 - company: MNTN
   position: Systems Administrator
