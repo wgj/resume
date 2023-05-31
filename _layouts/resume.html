@@ -62,7 +62,7 @@
           <h4 class="resume-item-details" itemprop="description">{{ job.position }} &bull; {{ job.duration }}</h4>
           <span class="resume-item-buzzword">
           {% for buzzword in job.buzzwords %}
-            {{ buzzword }}
+            <span>{{ buzzword }}</span>
           {% endfor %}
           </span>
           <p class="resume-item-copy">{{ job.summary }}</p>
