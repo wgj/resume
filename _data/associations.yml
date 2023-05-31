@@ -1,6 +1,12 @@
 # Associations
 # comment out the urls if you do not wish to display them
 
+- organization: AWS
+  role: AWS Certified Solutions Architect
+  year: 2016 &mdash; 2019
+  url: https://www.usenix.org/
+  summary: AWS Certified Solutions Architect - Associate showcases knowledge and skills in AWS technology, across a wide range of AWS services. The focus of this certification is on the design of cost and performance optimized solutions, demonstrating a strong understanding of the AWS Well-Architected Framework. 
+
 - organization: USENIX
   role: Advocate Member
   year: 2013 &mdash; Present
