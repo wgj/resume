@@ -60,11 +60,13 @@
         <div class="resume-item" itemscope itemprop="worksFor" itemtype="http://schema.org/Organization">
           <h3 class="resume-item-title" itemprop="name">{{ job.company }}</h3>
           <h4 class="resume-item-details" itemprop="description">{{ job.position }} <br />{{ job.duration }}</h4>
-          <span class="resume-item-buzzword">
-          {% for buzzword in job.buzzwords %}
-            <span>{{ buzzword }}</span>
-          {% endfor %}
-          </span>
+          {% if job.buzzwords %}
+            <span class="resume-item-buzzword">
+            {% for buzzword in job.buzzwords %}
+              <span>{{ buzzword }}</span>
+            {% endfor %}
+            </span>
+          {% endif %}
           <p class="resume-item-copy">{{ job.summary }}</p>
         </div><!-- end of resume-item -->
         {% endfor %}
