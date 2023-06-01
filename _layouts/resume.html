@@ -59,7 +59,7 @@
         {% for job in site.data.experience %}
         <div class="resume-item" itemscope itemprop="worksFor" itemtype="http://schema.org/Organization">
           <h3 class="resume-item-title" itemprop="name">{{ job.company }} 
-            <!-- <img src="images/companies/{{ job.company }}.jpg" alt="company logo" class="resume-item-logo" itemprop="image"> -->
+            <img src="images/companies/{{ job.company }}.jpg" alt="company logo" class="resume-item-logo" itemprop="image">
           </h3>
           <h4 class="resume-item-details" itemprop="description">{{ job.position }} <br />{{ job.duration }}</h4>
           {% if job.buzzwords %}
