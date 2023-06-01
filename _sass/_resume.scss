@@ -189,13 +189,15 @@
   }
 
   .resume-item-logo {
-    width: 50px;
-    max-width: 100%;
-    overflow: hidden;
-    @include border-radius(100px);
-    margin: 0 auto;
-    display: block;
-  }
+    width: 40px;
+    vertical-align: middle;
+    margin-bottom: 3px;
+    margin-right: 11px;
+    margin-left: 7px;
+    padding: 4px;
+    border:rgb(104, 104, 112) 2px solid;
+    border-radius: 50%;
+   }
 }
 
 // footer styles
