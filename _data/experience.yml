@@ -82,7 +82,7 @@
 - company: MNTN
   position: Systems Administrator
   duration:   Oct, 2012  &mdash; Oct, 2013
-  summary: Responsible for infrastructure of online ad delivery, such as host provisioning and availability, Layer-7 load balancing, and DNS.<p />Managed 3,000+ host datacenter with configuration management and scripting (our IaaS vendor took care of 'racking and stacking').<p />Lead CI/CD adoption for software development teams.<p />Founded and lead monthly meeting where senior engineers shared and presented tips and tricks for the engineering team.
+  summary: Responsible for infrastructure of online ad delivery, such as host provisioning and availability, Layer-7 load balancing, and DNS.<p />Managed 3,000+ host datacenter with configuration management and scripting (our IaaS vendor took care of 'racking and stacking').<p />Lead CICD adoption for software development teams.<p />Founded and lead monthly meeting where senior engineers shared and presented tips and tricks for the engineering team.
 
 - company: Internet Brands
   position: Systems Administrator
