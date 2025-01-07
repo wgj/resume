@@ -11,7 +11,7 @@ sass:
 # Resume settings
 resume_avatar:                  "true"
 resume_name:                    "Weston Johnson"
-resume_title:                   "Engineering Manger for DevOps and SRE teams"
+resume_title:                   "Engineering Manager for DevOps and SRE teams"
 
 # used for the contact button in _layouts/resume.html
 resume_contact_email:           "resume@futureprefect.com"
