@@ -20,7 +20,7 @@ resume_contact_email:           "resume@wgj.io"
 resume_contact_telephone:       "(747) 200-7738"
 resume_contact_address:         "Boulder, CO"
 
-resume_header_contact_info:     "Boulder, CO • (747) 200-7738 • <a href=\"mailto:resume@futureprefect.com\">resume@futureprefect.com</a>"
+resume_header_contact_info:     "Boulder, CO • (747) 200-7738 • <a href=\"mailto:resume@wgj.io\">resume@wgj.io</a>"
 display_header_contact_info:    "true"
 
 resume_header_intro: "<p>I'm an experienced DevOps and Site Reliability Engineer with strong skills in cloud computing, Kubernetes, and AWS. I've lead teams and worked at companies like SpaceX, Amazon Web Services, and UCLA Health. I'm most comfortable with Linux system administration, continuous integration, and configuration management. With a background in Agile, Scrum, and DevOps methodologies, I am committed to team growth and project success.</p>"
