@@ -1,4 +1,17 @@
-# Wakeup GitHub Actions
+- company: Succession Capital
+  position: Principal
+  duration: Dec, 2024 &mdash; Current
+  summary: Identify, evaluate, and acquire small businesses through the Entrepreneurship-Through-Acquisition model. Lead deal sourcing, financial analysis, and owner succession planning with a focus on preserving legacy and ensuring long-term growth.
+  buzzwords:
+    - Deal Sourcing  
+    - Financial Analysis  
+    - Valuation (SDE, EBITDA, DSCR)  
+    - Due Diligence  
+    - SBA 7(a) Financing  
+    - Succession Planning  
+    - Small Business Acquisition  
+    - Entrepreneurship Through Acquisition (ETA)  
+
 - company: PollyEx
   position: Engineering Manager, DevOps and SRE
   duration: Feb, 2021 &mdash; Feb, 2024
