@@ -11,7 +11,7 @@ sass:
 # Resume settings
 resume_avatar:                  "true"
 resume_name:                    "Weston Johnson"
-resume_title:                   "Small Business Acquisition & Succession Planning"
+resume_title:                   "Search Principal for Small Business Acquisitions"
 
 # used for the contact button in _layouts/resume.html
 resume_contact_email:           "resume@wgj.io"
