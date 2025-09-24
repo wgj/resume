@@ -11,7 +11,7 @@ sass:
 # Resume settings
 resume_avatar:                  "true"
 resume_name:                    "Weston Johnson"
-resume_title:                   "Engineering Manager for DevOps and SRE teams"
+resume_title:                   "Small Business Acquisition & Succession Planning"
 
 # used for the contact button in _layouts/resume.html
 resume_contact_email:           "resume@wgj.io"
@@ -23,7 +23,7 @@ resume_contact_address:         "Boulder, CO"
 resume_header_contact_info:     "Boulder, CO • (747) 200-7738 • <a href=\"mailto:resume@wgj.io\">resume@wgj.io</a>"
 display_header_contact_info:    "true"
 
-resume_header_intro: "<p>I'm an experienced DevOps and Site Reliability Engineer with strong skills in cloud computing, Kubernetes, and AWS. I've lead teams and worked at companies like SpaceX, Amazon Web Services, and UCLA Health. I'm most comfortable with Linux system administration, continuous integration, and configuration management. With a background in Agile, Scrum, and DevOps methodologies, I am committed to team growth and project success.</p>"
+resume_header_intro: "<p>My professional background spans over a decade in technical operations and systems leadership (Senior DevOps/SRE) combined with financial and strategic training through my MBA at the University of Denver. This dual skillset equips me to both rigorously evaluate businesses—through disciplined financial analysis, operational due diligence, and risk assessment—and to step into an owner-operator role with hands-on execution capability.</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
